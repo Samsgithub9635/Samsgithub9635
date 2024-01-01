@@ -2,7 +2,9 @@
  <h1 align="center">Hi 👋, I'm Samrat Saha</h1>
 <h3 align="center">A Data Analyst Intern with a passion for using data to solve problems.</h3>
 
-<img align="center" alt="My_Coding_Journey" width="1950"  src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="center" alt="coding" width="1950" src="https://github.com/Samsgithub9635/Samsgithub9635/assets/140338992/6ac81cf8-8c8a-4d76-b5ce-dd9201159f39">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samsgithub9635&label=Profile%20views&color=0e75b6&style=flat" alt="samsgithub9635" /> </p>
