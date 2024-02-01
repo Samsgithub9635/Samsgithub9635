@@ -38,4 +38,4 @@
 <img align="justify"  width="450"  src="https://github-readme-stats.vercel.app/api/top-langs?username=samsgithub9635&show_icons=true&locale=en&layout=compact" alt="samsgithub9635" /> 
 
 
-<img align="top"  alt="coding" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=samsgithub9635&" alt="samsgithub9635" /> 
+<img align="left"  alt="coding" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=samsgithub9635&" alt="samsgithub9635" /> 
