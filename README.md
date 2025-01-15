@@ -1,4 +1,4 @@
-![Samrat saha](https://github.com/Samsgithub9635/Samsgithub9635/assets/140338992/f0eff8ff-4af9-4074-be83-36e1e725347a)
+![Samrat saha](2.png)
  <h1 align="center">Hi 👋, I'm Samrat Saha</h1>
 <h3 align="center">A Data Analyst Intern with a passion for using data to solve problems.</h3>
 
