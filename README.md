@@ -1,6 +1,6 @@
 ![Samrat saha](GitHubCover.png)
  <h1 align="center">Hi 👋, I'm Samrat Saha</h1>
-<h3 align="center">A Data Analyst Intern with a passion for using data to solve problems.</h3>
+<h3 align="center">A Developer and Data Enthusiast with a passion for using data to solve problems.</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/Samsgithub9635/Samsgithub9635/assets/140338992/8a668d12-c45f-4ad8-b843-209178d2ec0b">
@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Power BI, SQL, DSA, C++**
+- 🌱 I’m currently working with **Java, Python, Power BI, SQL, DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Samsgithub9635?tab=repositories](https://github.com/Samsgithub9635?tab=repositories)
 
